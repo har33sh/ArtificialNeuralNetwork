@@ -1,9 +1,9 @@
 
 # Analysis on the Census Income Dataset
 <br /><br />
-*Task is to predict whether income exceeds 50K/yr based on census data. Also known as "Census Income" dataset. *<br />
+*Task is to predict whether income exceeds 50K/yr based on census data. Also known as "Census Income" dataset*<br />
 
-** Note that in the train and test data,salary > 50K is represented by 1 and <= 50K is represented by 0.**<br />
+** Note that in the train and test data,salary > 50K is represented by 1 and <= 50K is represented by 0**<br />
 
 **Data set description**: Below is a brief overview of type and values for various features in the data set.
 <br /><br />
