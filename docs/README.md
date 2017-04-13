@@ -1,27 +1,27 @@
 
 # Analysis on the Census Income Dataset
-<br/ ><br/ >
-*Task is to predict whether income exceeds 50K/yr based on census data. Also known as "Census Income" dataset. *<br/ >
+<br /><br />
+*Task is to predict whether income exceeds 50K/yr based on census data. Also known as "Census Income" dataset. *<br />
 
-** Note that in the train and test data,salary > 50K is represented by 1 and <= 50K is represented by 0.**<br/ >
+** Note that in the train and test data,salary > 50K is represented by 1 and <= 50K is represented by 0.**<br />
 
 **Data set description**: Below is a brief overview of type and values for various features in the data set.
-<br/ ><br/ >
-**age**: continuous.<br/ >
-**workclass**: Private, Self-emp-not-inc, Self-emp-inc, Federal-gov, Local-gov, State-gov, Without-pay, Never-worked.<br/ >
-**fnlwgt**: continuous.<br/ >
-**education**: Bachelors, Some-college, 11th, HS-grad, Prof-school, Assoc-acdm, Assoc-voc, 9th, 7th-8th, 12th, Masters, 1st-4th, 10th, Doctorate, 5th-6th, Preschool.<br/ >
-**education-num**: continuous.<br/ >
-**marital-status**: Married-civ-spouse, Divorced, Never-married, Separated, Widowed, Married-spouse-absent, Married-AF-spouse.<br/ >
-**occupation**: Tech-support, Craft-repair, Other-service, Sales, Exec-managerial, Prof-specialty, Handlers-cleaners, Machine-op-inspct, Adm-clerical, Farming-fishing, Transport-moving, Priv-house-serv, Protective-serv, Armed-Forces.<br/ >
-**relationship**: Wife, Own-child, Husband, Not-in-family, Other-relative, Unmarried.<br/ >
-**race**: White, Asian-Pac-Islander, Amer-Indian-Eskimo, Other, Black.<br/ >
-**sex**: Female, Male.<br/ >
-**capital-gain**: continuous.<br/ >
-**capital-loss**: continuous.<br/ >
-**hours-per-week**: continuous.<br/ >
+<br /><br />
+**age**: continuous.<br />
+**workclass**: Private, Self-emp-not-inc, Self-emp-inc, Federal-gov, Local-gov, State-gov, Without-pay, Never-worked.<br />
+**fnlwgt**: continuous.<br />
+**education**: Bachelors, Some-college, 11th, HS-grad, Prof-school, Assoc-acdm, Assoc-voc, 9th, 7th-8th, 12th, Masters, 1st-4th, 10th, Doctorate, 5th-6th, Preschool.<br />
+**education-num**: continuous.<br />
+**marital-status**: Married-civ-spouse, Divorced, Never-married, Separated, Widowed, Married-spouse-absent, Married-AF-spouse.<br />
+**occupation**: Tech-support, Craft-repair, Other-service, Sales, Exec-managerial, Prof-specialty, Handlers-cleaners, Machine-op-inspct, Adm-clerical, Farming-fishing, Transport-moving, Priv-house-serv, Protective-serv, Armed-Forces.<br />
+**relationship**: Wife, Own-child, Husband, Not-in-family, Other-relative, Unmarried.<br />
+**race**: White, Asian-Pac-Islander, Amer-Indian-Eskimo, Other, Black.<br />
+**sex**: Female, Male.<br />
+**capital-gain**: continuous.<br />
+**capital-loss**: continuous.<br />
+**hours-per-week**: continuous.<br />
 **native-country**: United-States, Cambodia, England, Puerto-Rico, Canada, Germany, Outlying-US(Guam-USVI-etc), India, Japan, Greece, South, China, Cuba, Iran, Honduras, Philippines, Italy, Poland, Jamaica, Vietnam, Mexico, Portugal, Ireland, France, Dominican-Republic, Laos, Ecuador, Taiwan, Haiti, Columbia, Hungary, Guatemala, Nicaragua, Scotland, Thailand, Yugoslavia, El-Salvador, Trinadad&Tobago, Peru, Hong, Holand-Netherlands.
-<br/ ><br/ ><br/ >
+<br /><br /><br />
 
 ### Importing libraries and reading the census data
 
