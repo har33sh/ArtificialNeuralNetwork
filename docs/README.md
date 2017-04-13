@@ -1,6 +1,6 @@
 
 # Analysis on the Census Income Dataset
-[Web URL : Please Click here to read web friendly version] (https://har33sh.github.io/ArtificialNeuralNetwork/)
+[Please Click here to read web friendly version](https://har33sh.github.io/ArtificialNeuralNetwork/)
 
 <br /><br />
 *Task is to predict whether income exceeds 50K/yr based on census data. Also known as "Census Income" dataset*<br />
